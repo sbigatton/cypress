@@ -1,6 +1,5 @@
 # Node.js-related files
 node_modules/
-package-lock.json
 
 # Cypress-specific files
 cypress/screenshots/
