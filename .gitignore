@@ -1,0 +1,32 @@
+# Node.js-related files
+node_modules/
+package-lock.json
+
+# Cypress-specific files
+cypress/screenshots/
+cypress/videos/
+
+# Config and environment files (customize as needed)
+cypress.env.json
+.env
+.env.*
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code files
+.vscode/
+
+# Logs and temporary files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Build directories (if applicable)
+dist/
+build/
+
+# Coverage files (if using code coverage tools)
+coverage/
